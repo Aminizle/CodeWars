@@ -6,7 +6,7 @@
 
 /* 
 Kata URL
-https://www.codewars.com/kata/53369039d7ab3ac506000467/javascript
+https://www.codewars.com/kata/53dc23c68a0c93699800041d
 
 
 INSTRUCTIONS
