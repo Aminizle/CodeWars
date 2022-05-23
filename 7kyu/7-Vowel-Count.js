@@ -19,7 +19,10 @@ The input string will only consist of lower case letters and/or spaces.
 
 PSEUDO CODE
 1. Create a function that takes in a String.
-2. 
+2. pass vowels to variable
+3. set initialize vowelCount
+4. using nested loops to cycle through each letter and compare them to vowels variable
+5. return vowelsCount
 */
 
 // Happy Coding ^_^
