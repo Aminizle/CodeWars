@@ -28,7 +28,7 @@ PSEUDO CODE
 
 // Happy Coding ^_^
 // SOLUTION
-const numberToString = (num)=> String(num)
+const numberToString = (num)=> String(num) 
       
       // TEST CASES
 console.log(numberToString(67), '67');
