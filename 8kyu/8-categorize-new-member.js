@@ -47,12 +47,6 @@ function openOrSenior(data){
       console.log(([[59, 12],[55,-1],[12, -2],[12, 12]]),['Senior', 'Open', 'Open', 'Open'])
 
 /*
-function openOrSenior(data){
-    function determineMembership(member){
-      return (member[0] >= 55 && member[1] > 7) ? 'Senior' : 'Open';
-    }
-    return data.map(determineMembership);
-  }
    Best Practices
    
    Destructuring: [age, handicap] https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
