@@ -37,13 +37,13 @@ PSEUDO CODE
 
 // SOLUTION
 function countSheeps(arrayOfSheep) {
-    let counter = 0;
-    for(let i = 0; i < arrayOfSheep.length; i++) {
-        if(arrayOfSheep[i]){
-          counter += 1;
-        } 
+  let counter = 0;
+  for (i=0;i<arrayOfSheep.length;i++) {
+    if(arrayOfSheep[i] == "true") {
+      counter++
     }
-    return counter
+  }
+  return counter;
 }
 
 // TEST CASES
