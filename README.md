@@ -1,11 +1,11 @@
 <h1 align=center>Codewars</h1>
 
-   <p>
+   <p align=center>
     <span>&#129490;</span>
     Making my way through the Codewars universe, one kata at a time! 
     <span>&#129505;</span>
   </p>
-  <p>
+  <p align=center>
     This repository is a showcase of my journey through Codewars, where each .js file represents one epic kata conquered. 
     <span>&#129351;</span>
   </p>
