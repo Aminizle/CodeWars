@@ -1,6 +1,14 @@
 <h1 align=center>Codewars</h1>
 
-   <p>Making my way through Codewars, one kata at a time. Each <code>.js</code> file in this repository represents one kata that I've solved on the Codewars platform.</p>
+   <p>
+    <span>&#129490;</span>
+    Making my way through the Codewars universe, one kata at a time! 
+    <span>&#129505;</span>
+  </p>
+  <p>
+    This repository is a showcase of my journey through Codewars, where each .js file represents one epic kata conquered. 
+    <span>&#129351;</span>
+  </p>
     
   <h2 align=center>Codewars Badge</h2>
 <p align=center>
