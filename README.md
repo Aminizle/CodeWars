@@ -7,4 +7,9 @@
 
 📜 Each file contains the title, link, instructions, my solution, and test cases of the kata
 
-https://www.codewars.com/users/DevAmeenM/badges/large
+<a target="_blank" href="https://www.codewars.com/users/DevAmeenM" >
+          <img
+            src="https://www.codewars.com/users/DevAmeenM/badges/large"
+            alt="codewars badge large"
+          />
+        </a>
