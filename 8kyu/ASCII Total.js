@@ -26,15 +26,13 @@ PSEUDO CODE
 
 // SOLUTION
 function uniTotal(string) {
-    let sum = 0;
-    for (let i = 0; i < string.length; i++) {
-      let charCode = string.charCodeAt(i);
-      if (charCode >= 32 && charCode <= 126) {
-        sum += charCode;
-      }
-    }
-    return sum;
-  }
+    function uniTotal (string) {
+        let sum=0;
+          for(let i=0;i<string.length;i++){
+            sum += string.charCodeAt(i); 
+          }
+          return sum;
+        }
 
 // TEST CASES
 const strictEqual = require("chai").assert.strictEqual;
