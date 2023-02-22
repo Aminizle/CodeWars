@@ -25,15 +25,18 @@
    <p>Unit testing is a crucial part of software development that ensures the code works as expected and meets the requirements. In this repository, I have used Jest, a popular testing framework, to write unit tests for my solutions to the Codewars katas.</p>
    <p>To run the tests, you need to have Jest installed. You can install it using the following command:</p>
 
-css
 
+<pre><code>cd your-portfolio
 npm install --save-dev jest
+</code></pre>
+
 
    <p>After installing Jest, you can run the tests by executing the following command in the root directory of the project:</p>
 
-bash
-
+<pre><code>cd your-portfolio
 npm test
+</code></pre>
+
 
    <p>Jest will then run all the test cases and provide a report of the test results. If any test cases fail, Jest will report the failure with detailed information to help you identify the issue and fix it.</p>
    <p>By using Jest for unit testing and reporting, I can ensure the quality and correctness of my solutions to the Codewars katas.</p>
