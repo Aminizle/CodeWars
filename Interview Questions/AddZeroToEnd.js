@@ -12,3 +12,5 @@ function zeroAdjuster(numbers) {
 
 
 //example [0,1,2,3] //  should return 1,2,3,0
+
+//shared via https://sharepad.io/live/QlHAHuI
