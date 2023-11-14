@@ -15,9 +15,12 @@ We need a function that can transform a number into a string.
 
 What ways of achieving this do you know?
 
-EXAMPLE
-123 --> "123"
-999 --> "999"
+Examples (input --> output):
+
+123  --> "123"
+999  --> "999"
+-100 --> "-100"
+
 
 PSEUDO CODE
 1. Create a function that takes in numbers.
@@ -29,6 +32,15 @@ PSEUDO CODE
 // Happy Coding ^_^
 // SOLUTION
 const numberToString = (num)=> String(num) 
+
+// Alternative solution
+// function numberToString(num) {
+//       // Return a string of the number here!
+//       return num.toString();
+//     }
+
+// Alternative Solution
+// numberToString = (num)=> num.toString();
       
       // TEST CASES
 console.log(numberToString(67), '67');
